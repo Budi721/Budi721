@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer based in Pekalongan, Central Java.
 
-- :robot: &nbsp; Exploring new technologies and developing software solutions and automate the boring stuff.
+- :robot: &nbsp; Exploring new technologies, developing software solutions, and automate the boring stuff.
 - 🎓 &nbsp; Studying Computer Science and Mathematics.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Data Structures.
 - :hammer_and_wrench: &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
