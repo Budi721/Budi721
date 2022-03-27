@@ -2,11 +2,17 @@
 ---
 
 #### I'm a Full-Stack Developer based in Pekalongan, Central Java.
+Tech stack that i have used, such as:  
 
-- :robot: &nbsp; Exploring new technologies, developing software solutions, and automate the boring stuff.
-- 🎓 &nbsp; Studying Computer Science and Mathematics.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Data Structures.
-- :hammer_and_wrench: &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- React js.
+- Node js.
+- Golang
+- Flutter
+- Laravel or PHP MVC Framework
+- Python 
+
+In my free time, i use to learn new thing. i wonder how machine learning and deep learning work and want to learn more about software architecture and cloud computing.
+
 <!---
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
