@@ -10,7 +10,7 @@ Tech stack that i have used, such as:
 - Laravel or PHP MVC Framework
 - Python 
 
-In my free time, i use to learn new thing. i wonder how machine learning and deep learning work and want to learn more about software architecture and cloud computing.
+In my free time, i use to learn new things. i wonder how machine learning and deep learning work and want to learn more about software architecture and cloud computing.
 
 <!---
 <p align="center">
