@@ -4,8 +4,7 @@
 #### I'm a Full-Stack Developer based in Pekalongan, Central Java.
 Tech stack that i have used, such as:  
 
-- React js.
-- Node js.
+- React js and Node js.
 - Golang
 - Flutter
 - Laravel or PHP MVC Framework
